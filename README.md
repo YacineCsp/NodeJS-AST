@@ -147,6 +147,32 @@ Permettra l'affichage de:
         Hello [Name]
         Welcome to our humble application.
 
+
+
+# NodeJS-AST Projet 
+
+## Installation :
+ 
+
+Un problème est survenu lors du push de ce dernier TP, me trouvant un cran au dessus dans l'arborescence j'ai Malencontreusement push un tout nouveau dossier, pour une raison que je ne comprend pas, cela à reintialiser mon git à 0 et je n'ai que 3 commits d'enregistrer alors que j'ai fais au mieux possible le suivi. 
+Je ne sais pas s'il est possible de récupérer des logs afin de prouver ma bonne foi.
+
+## Utilisation :
+
+Pour lancer le serveur, il faut se placer dans le dossier du projet et utiliser la commande :
+
+    nodemon start
+
+Ensuite via le navigateur web, nous pouvons acceder au port 8080 du localhost:
+
+    http://localhost:8080
+
+Mettre le lien dans la forme:
+
+     http://localhost:8080/signup 
+     
+Il sera donc possible de créer un compte, malheuresement à l'heure actuelle la page login ne permet pas de se connecter mais les fonctionnalités sont présentes, c'est juste un bug que je n'arrive pas à régler.
+
 ## Contributeur :
 
 **ZIDI Yacine**
